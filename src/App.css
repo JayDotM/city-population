@@ -1,3 +1,8 @@
 * {
     margin: 5px;
 }
+
+.city:hover {
+ background-color: rgb(183, 227, 253);
+ cursor: pointer;
+}
